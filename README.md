@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidharth !</h1>
-<h3 align="center">Take a look at my projects and feel free to reach out if you’re interested in collaborating or just want to chat about tech!</h3>
+<h3 align="left">Take a look at my projects and feel free to reach out if you’re interested in collaborating or just want to chat about tech!</h3>
 
-- 🔭 I’m currently working on **DeployFlow**
+- 🔭 I’m currently working on **DeployFlow** , a Project Deployment Pipeline.
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB & Machine Learning**
 
