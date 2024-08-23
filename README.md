@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB & Machine Learning**
 
-- 👨‍💻 All of my projects are available at [myportfolio-tau-brown.vercel.app](myportfolio-tau-brown.vercel.app)
+- 👨‍💻 All of my projects are available at [myportfolio-tau-brown.vercel.app](https://myportfolio-tau-brown.vercel.app/)
 
 - 📫 How to reach me **sidharthgill19june@gmail.com**
 
