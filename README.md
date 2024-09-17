@@ -8,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [myportfolio-tau-brown.vercel.app](https://myportfolio-tau-brown.vercel.app/)
 
 - 📫 How to reach me **sidharthgill19june@gmail.com**
+
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gill0602?cardType=github&theme=github-dark&preferLogin=false&Border=1A7ADD&Ring=1484DD&Title=EDD449)](https://git.io/awesome-stats-card)
   
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false&Border=1A7ADD&Ring=1484DD&Title=EDD449">    <img  alt="gill0602's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gill0602?cardType=github&theme=github-dark&preferLogin=false&Border=1A7ADD&Ring=1484DD&Title=EDD449" />  </a>
 <h3 align="left">Connect with me:</h3>
